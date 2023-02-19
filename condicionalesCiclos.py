@@ -36,6 +36,8 @@ if (anemia):
     print("Usted tiene anemia")
 else:
     print("Usted NO  tiene anemia")
+    
+    #COMENTARIO ADICIONAL
 
 
 
